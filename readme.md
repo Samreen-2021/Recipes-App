@@ -14,4 +14,4 @@
 #How to run code in this repo?
 -To run this app, click live github website link given below.
 
-Live Link:
+Live Link: https://samreen-2021.github.io/Recipes-App/
